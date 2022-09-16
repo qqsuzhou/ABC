@@ -1,0 +1,11 @@
+﻿  QuickDemo.cpp
+D:\vcworkspaces\opencv451\opencv451\QuickDemo.cpp(374,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vcworkspaces\opencv451\opencv451\QuickDemo.cpp(375,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vcworkspaces\opencv451\opencv451\QuickDemo.cpp(376,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vcworkspaces\opencv451\opencv451\QuickDemo.cpp(379,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  5 of 125 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv451.vcxproj -> D:\vcworkspaces\opencv451\x64\Release\opencv451.exe
